@@ -7,7 +7,7 @@ console.log([nilairandom.length])
 console.log(nilairandom);
 
 // if (nilairandom % 2 == 0){
-//   console.log(`ini adalah bilangan genap`) testes
+//   console.log(`ini adalah bilangan genap`) tespush
 // }
 
 // let nilairandom = [];
