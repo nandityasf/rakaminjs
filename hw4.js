@@ -6,9 +6,9 @@ for (let i = 1; i <= 100; i++) {
 console.log([nilairandom.length])
 console.log(nilairandom);
 
-if (nilairandom % 2 == 0){
-  console.log(`ini adalah bilangan genap`)
-}
+// if (nilairandom % 2 == 0){
+//   console.log(`ini adalah bilangan genap`) testes
+// }
 
 // let nilairandom = [];
  
