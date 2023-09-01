@@ -6,9 +6,10 @@ for (let i = 1; i <= 100; i++) {
 console.log([nilairandom.length])
 console.log(nilairandom);
 
-// if (nilairandom % 2 == 0){
-//   console.log(`ini adalah bilangan genap`) tespushlagi
-// }
+let nilairandom = []
+if (nilairandom % 2 == 0){
+  {console.log("genap") }else { console.log("ganjil")}
+}
 
 // let nilairandom = [];
  
