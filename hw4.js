@@ -72,7 +72,7 @@ console.log("total dari angka ganjil:", total(angkaGanjil))
 console.log("rata rata dari angka genap:", rataRata(angkaGenap))
 console.log("rata rata dari angka ganjil:", rataRata(angkaGanjil))
 
-
+// perbandingan
 console.log("perbandingan:")
 
 if (minimal(angkaGenap) > minimal(angkaGanjil)) console.log("- nilai min dari angka genap > angka ganjil:")
